@@ -1,0 +1,9 @@
+__pycache__/
+data/
+out/
+
+.zed/
+.vscode/
+.DS_Store
+*.zip
+*.csv
